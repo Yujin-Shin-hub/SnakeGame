@@ -1,2 +1,52 @@
-<h1 align="center">Snake Game (Unconventional) 🐍 User Manual</h1>
-<h3 align="center">1. Before Starting the Game When the program starts, the console window is set to 100*35, and the title of the console window is set to ‘Snake game by Team 7.’ Background music will play, and a welcome message will be displayed. You need to log in or sign up to verify your membership information. Pressing 1 allows you to log in, while pressing 2 takes you to the sign-up screen. If you enter any other key, a message will prompt you to enter a valid option again. After logging in, you can choose from three options: Start Game, View Help, or View Previous Players' Rankings. Pressing 1 starts the game, 2 displays the game’s help manual, and 3 shows the rankings of previous players. Selecting 1 to start the game will initiate the preparation phase. A short story about why you need to raise the snake will be displayed, followed by an option to choose the snake’s color: Blue, Green, or Yellow. Press 1 for Blue, 2 for Green, or 3 for Yellow. If you enter any other key, you will be prompted to enter a valid option again. 2. Starting the Game Once the snake’s color is selected, the background music changes, and the game officially begins. The snake can be controlled using the arrow keys (←, ↑, →, ↓). Items will spawn randomly, each with different effects, and their appearance durations vary. The items include: Normal Apple (Red): Displayed as a red ♥ for 8 seconds. Eating this apple increases your score by 10 points, speeds up the snake, and extends its body. This item has the highest spawn rate. Golden Apple (Gold): Displayed as a golden ★ for 3 seconds. Eating this apple increases your score by 50 points. Random Box (Cyan ▥, ▨, ▧): The random box contains either a good item, a bad item, or an item that can be beneficial or harmful depending on the situation. It remains visible for 5 seconds and may include: Poison Apple (Purple): Displayed as a cyan ▧, making it difficult to distinguish from other items. Eating this apple causes the snake to turn black for 3 seconds, making it impossible to see where it is moving, increasing the risk of crashing into walls or itself. Super Apple (Light Yellow): Displayed as a cyan ▨ to obscure its identity. Eating this apple doubles your current score. Medicine Apple (Dark Sky Blue): Displayed as a cyan ▥ to make it hard to identify. This apple resets the player's score to 100 points, meaning it can be good or bad depending on the situation. If your score was above 100, it becomes a negative effect, but if it was below 100, it becomes beneficial. (This name was chosen because, like medicine, it can either heal or harm.) When you consume an item, the color of the heart displayed next to the game map and the snake’s dialogue will change based on the item’s effect. Observing these cues can help you distinguish the items in the random box and enhance the gaming experience. The snake starts with three lives. If the snake crashes into a wall or its own body, one life is lost, and a corresponding message will appear next to the game map. The snake will then respawn at its starting position, with its length and speed reset. The game continues until all three lives are lost, at which point the game ends. If you want to pause the game, press the spacebar. Press any key to resume the game. 3. After the Game Ends When the game ends, the background music changes. You can enter your name to record your score. Rankings can be viewed from the home screen, but only the top 20 scores will be displayed. After saving your score, you can either return to the home screen or restart the game. Press 1 to restart, or 2 to go back to the home screen. If you enter any key other than 1 or 2, you will be prompted to enter a valid option again.</h3>
+# Snake Game User Manual
+
+## 1. Before Starting the Game
+
+1. When the program starts, the console window is set to **100x35**, and the title of the console window is set to **"Snake game by Team 7."** Background music will play, and a welcome message will be displayed.
+2. You need to **log in or sign up** to verify your membership information.  
+   - Press **1** to log in.  
+   - Press **2** to sign up.  
+   - Entering any other key will prompt you to enter a valid option again.
+3. After logging in, you can choose from three options:  
+   - **1**: Start Game  
+   - **2**: View Help  
+   - **3**: View Previous Players' Rankings  
+4. Selecting **1** starts the game preparation phase. A short story about why you need to raise the snake will be displayed.  
+   - You can choose the snake’s color:  
+     - **1**: Blue  
+     - **2**: Green  
+     - **3**: Yellow  
+   - Entering any other key will prompt you to enter a valid option again.
+
+---
+
+## 2. Starting the Game
+
+1. Once the snake’s color is selected, the **background music changes**, and the game begins.
+2. Control the snake using the arrow keys:  
+   - **←, ↑, →, ↓**
+3. Random items appear on the map, each with different effects and durations:  
+   - **Normal Apple (Red ♥, lasts 8 sec):** Increases score by **10 points**, speeds up the snake, and extends its body.  
+   - **Golden Apple (Gold ★, lasts 3 sec):** Increases score by **50 points**.  
+   - **Random Box (Cyan ▥, ▨, ▧, lasts 5 sec):** Contains one of the following hidden items:  
+     - **Poison Apple (Purple ▧):** Turns the snake black for **3 seconds**, making it invisible.  
+     - **Super Apple (Light Yellow ▨):** **Doubles the current score.**  
+     - **Medicine Apple (Dark Sky Blue ▥):** Resets the score to **100 points**, which can be beneficial or harmful.  
+4. Item effects change the **color of the heart icon** next to the game map and modify the snake's dialogue.
+5. The snake starts with **three lives**.  
+   - If it crashes into a wall or its own body, one life is lost.  
+   - The snake resets to its starting position, and its length and speed reset.  
+   - The game ends when all **three lives** are lost.
+6. **Press the spacebar** to **pause the game**. Press any key to resume.
+
+---
+
+## 3. After the Game Ends
+
+1. When the game ends, the **background music changes**.  
+   - Enter your **name** to record your score.  
+   - The **Top 20 rankings** can be viewed on the home screen.
+2. After saving your score, choose an option:  
+   - **1**: Restart the game  
+   - **2**: Return to the home screen  
+   - Entering any other key will prompt you to enter a valid option again.
