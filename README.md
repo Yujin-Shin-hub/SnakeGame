@@ -1,4 +1,4 @@
-# Snake Game User Manual
+# Snake Game (Unconventional) 🐍 User Manual
 
 ## 1. Before Starting the Game
 
