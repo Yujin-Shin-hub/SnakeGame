@@ -21,6 +21,7 @@
 ---
 
 ## 2. Starting the Game
+<img width="1450" height="802" alt="image" src="https://github.com/user-attachments/assets/9acf7fab-5ec7-4c80-a614-32765a0ff2ca" />
 
 1. Once the snake’s color is selected, the **background music changes**, and the game begins.
 2. Control the snake using the arrow keys:  
